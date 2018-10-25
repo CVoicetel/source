@@ -13,7 +13,7 @@ Welcome to Voicetel Portal
 **Tab by Tab**
 ---------------
 
-.. image:: _static/images/Portal/PortalBar.jpg
+.. image:: _static/images/Portal/PortalBar.png
 
 
 

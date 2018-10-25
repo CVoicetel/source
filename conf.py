@@ -20,11 +20,11 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Voicetel'
-copyright = '2018, Caleb'
+copyright = '2018, Voicetel'
 author = 'Caleb'
 
 # The short X.Y version
-version = ''
+version = '0.0.1'
 # The full version, including alpha/beta/rc tags
 release = '0'
 
@@ -72,7 +72,7 @@ language = None
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = []
+exclude_patterns = ['_static']
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = None
@@ -118,7 +118,7 @@ htmlhelp_basename = 'Voiceteldoc'
 latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
     #
-    # 'papersize': 'letterpaper',
+     'papersize': 'letterpaper',
 
     # The font size ('10pt', '11pt' or '12pt').
     #

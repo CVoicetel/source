@@ -34,7 +34,7 @@ This area will show you your recent calls.
 
 For older calls You can look up the calls but Downloading the Call Detail Record. To download the CDR you will need to select the Start Date and End date. 
 It is recommend that you do not pull more then a week at a time. In your downloaded CDR will be lade out like your Recent Calls section with the call UUID added.
-To review the Call Detail Record of a call in the CDR download take your UUID and paste it at the end of https://www.voicetel.com/a/uuid/ in a web browser.
+To review the Call Detail Record of a call in the CDR download take your UUID and paste it at the end of https://www.voicetel.com/a/uuid/ in a web broswer.
 		
 		
 VoiceTel offers local inbound phone service at exceptionally low monthly and per minute rates.We provide businesses and individuals access to a nationwide footprint covering most of the U.S. population.

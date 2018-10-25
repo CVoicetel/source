@@ -12,10 +12,9 @@ Welcome to Voicetel Portal
 
 **Tab by Tab**
 ---------------
-.. image:: ../_static/images/Portal/PortalBar.png
-        :width: 811pt
-        :align: center
-        :height: 51pt
+
+.. image:: _static/images/Portal/PortalBar.jpg
+
 
 
 Tab list

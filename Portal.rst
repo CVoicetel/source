@@ -1,5 +1,5 @@
 
-.. image:: _static/images/logo.png
+.. image:: images/logo.png
         :width: 130pt
         :align: center
         :height: 130pt
@@ -13,7 +13,7 @@ Welcome to Voicetel Portal
 **Tab by Tab**
 ---------------
 
-.. image:: _static/images/Portal/PortalBar.png
+.. image:: images/Portal/PortalBar.png
 
 
 

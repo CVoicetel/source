@@ -1,5 +1,5 @@
 
-.. image:: _static/images/logo.png
+.. image:: images/logo.png
         :width: 130pt
         :align: center
         :height: 130pt
@@ -12,19 +12,19 @@ Portal Billing Tab
 
 
 
-.. image:: _static/images/Portal/PortalBillingAddFunds.PNG
+.. image:: images/PortalBillingAddFunds.png
         :align: center
 
 Select the amount you would like to add to your account. Then click "Pay Now". You will be taken to the PayPal portal.
  It is recommended that you make/use a PayPal account.
 
-.. image:: _static/images/Portal/PortalBillingAddFundsM.PNG
+.. image:: images/PortalBillingAddFundsM.png
         :align: center
 
 Select the amount you would like to add to your account monthly. Then click "Pay Now". You will be taken to the PayPal portal.
  It is recommended that you make/use a PayPal account.		
 		
-.. image:: _static/images/Portal/PortalBillingCurrentRates.PNG
+.. image:: /images/PortalBillingCurrentRates.png
         :align: center
 		
 Here you can check you current rates.

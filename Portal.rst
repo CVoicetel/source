@@ -14,13 +14,13 @@ Welcome to Voicetel Portal
 ---------------
 
 .. image:: ../images/PortalBar.png
-
+		
 .. image:: images/PortalBar.png
-
+		
 .. image:: ../images/PortalBar.png		
-
+		
 .. image:: _static/images/Portal/PortalBar.png
-
+		
 .. image:: ../_static/images/Portal/PortalBar.png
 
 

@@ -15,7 +15,7 @@ Welcome to Voicetel Portal
 
 
 
-.. image:: _static/images/Portal/PortalBar.png
+.. image:: images/PortalBar.png
 		:align: center
 
 

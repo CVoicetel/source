@@ -17,6 +17,12 @@ Welcome to Voicetel Portal
 
 .. image:: images/PortalBar.png
 		:align: center
+		
+.. image:: _static/images/Portal/PortalBar.png
+		:align: center
+		
+.. image:: ../_static/images/Portal/PortalBar.png
+		:align: center
 
 
 Tab list

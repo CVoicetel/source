@@ -17,6 +17,12 @@ Welcome to Voicetel Portal
         :scale: 85%
 
 
+.. image:: images/logo.png
+        :width: 130pt
+        :align: center
+        :height: 130pt
+
+		
 .. image:: ../_static/images/PortalBar.png
         :scale: 85%
 

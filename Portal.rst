@@ -18,9 +18,6 @@ Welcome to Voicetel Portal
 
 
 .. image:: images/PortalBar.PNG
-        :width: 130pt
-        :align: center
-        :height: 130pt
 
 		
 .. image:: ../_static/images/PortalBar.png

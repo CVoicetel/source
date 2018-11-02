@@ -13,18 +13,12 @@ Welcome to Voicetel Portal
 **Tab by Tab**
 ---------------
 
-.. image:: ../_static/PortalBar.PNG
-        :scale: 85%
 
 
 .. image:: images/PortalBar.PNG
 
-		
-.. image:: ../_static/images/PortalBar.PNG
-        :scale: 85%
 
-.. image:: images/PortalBar.png
-		
+
 		
 	
 .. image:: _static/images/Portal/PortalBar.PNG

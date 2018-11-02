@@ -9,7 +9,7 @@
 
 Portal DID Tab
 =========================
-.. image:: _static/images/Portal/PortalDID.png
+.. image:: _static/images/Portal/PortalDID.PNG
         :align: center
 
 Here you can add DIDs to your account you can port in DIDs or buy new DIDs.

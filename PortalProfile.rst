@@ -9,7 +9,7 @@
 
 Portal Profile Tab
 =========================
-.. image:: _static/images/Portal/PortalProfile.png
+.. image:: _static/images/Portal/PortalProfile.PNG
         :align: center
 		
 		

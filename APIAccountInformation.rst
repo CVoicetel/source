@@ -17,7 +17,6 @@ API Account Information
 To view information about your account use https://api.voicetel.com/accountInfo/[api_key]/ 
 
 
-
 +---------------------+----------------------------------+---------------------------------------------+
 |Property             |REST Response                     |Extra info                                   |
 +=====================+==================================+=============================================+

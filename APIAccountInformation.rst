@@ -17,38 +17,40 @@ API Account Information
 To view information about your account use https://api.voicetel.com/accountInfo/[api_key]/ 
 
 
+
 +---------------------+----------------------------------+---------------------------------------------+
-|Property             |REST Response        |Extra info|
+|Property             |REST Response                     |Extra info                                   |
 +=====================+==================================+=============================================+
-|status               |Success                         |If error check APIkey/GET Request|
+|status               |Success                           |If error check APIkey/GET Request            |
 +---------------------+----------------------------------+---------------------------------------------+
-|account              |Data Container		           ||
+|account              |Data Container                    |                                             |
 +---------------------+----------------------------------+---------------------------------------------+
+
 
 In the Data Container 
 
 +---------------------+----------------------------------+---------------------------------------------+
-|Property             |REST Response                     |Extra info|
+| Property            |REST Response                     |Extra info                                   |
 +=====================+==================================+=============================================+
-|name                 |Account Common Name               |You can change this portal>Profile|
+|name                 |Account Common Name               |You can change this portal>Profile           |
 +---------------------+----------------------------------+---------------------------------------------+
-|cash                 |Account Balance                   ||
+|cash                 |Account Balance                   |                                             |
 +---------------------+----------------------------------+---------------------------------------------+
-|rate                 |Per Minute Rate                   ||
+|rate                 |Per Minute Rate                   |                                             |
 +---------------------+----------------------------------+---------------------------------------------+
-|username             |Account Username                  ||
+|username             |Account Username                  |                                             |
 +---------------------+----------------------------------+---------------------------------------------+
-|created              |Account Creation Date             |Year Month Day|
+|created              |Account Creation Date             |Year Month Day                               |
 +---------------------+----------------------------------+---------------------------------------------+
-|email                |Account Email Address             |You can change this portal>Profile|
+|email                |Account Email Address             |You can change this portal>Profile           |
 +---------------------+----------------------------------+---------------------------------------------+
-|enabled              |Account Status Boolean            |T/F If Disabled check Account Balance(cash)|
+|enabled              |Account Status Boolean            |T/F If Disabled check Account Balance(cash)  |
 +---------------------+----------------------------------+---------------------------------------------+
-|caller_id            |Caller ID Override                |value = null unless enabled/configured|
+|caller_id            |Caller ID Override                |value = null unless enabled/configured       |
 +---------------------+----------------------------------+---------------------------------------------+
-|notify               |Low Balance Notification Boolean  |T/F Enable/Disable Balance Notifications|
+|notify               |Low Balance Notification Boolean  |T/F Enable/Disable Balance Notifications     |
 +---------------------+----------------------------------+---------------------------------------------+
-|notify_threshold     |Low Balance Notification Threshold|When you would like to be notified|
+|notify_threshold     |Low Balance Notification Threshold|When you would like to be notified           |
 +---------------------+----------------------------------+---------------------------------------------+
 
 

@@ -12,6 +12,8 @@ Portal Billing Tab
 
 
 
+
+
 .. image:: images/PortalBillingAddFunds.PNG
         :align: center
 

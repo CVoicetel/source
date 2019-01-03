@@ -10,15 +10,7 @@
 Welcome to Voicetel Portal
 ==========================
 
-**Tab by Tab**
----------------
-
-
-
-.. image:: images/PortalBar.PNG
-
-
-
+Welcome to the Voicetel Portal Overview. Please take a look at what each tab dos.
 		
 	
 .. image:: _static/images/Portal/PortalBar.PNG
@@ -28,8 +20,7 @@ Welcome to Voicetel Portal
 
 
 
-Tab list
-^^^^^^^^
+
 
 .. toctree::
    :maxdepth: 1

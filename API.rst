@@ -27,5 +27,6 @@ VoiceTel has produced a RESTful API to seamlessly and efficiently remotely acces
    
    APIkey.rst
    APIAccountInformation.rst
+   APICNAM.rst
 
 

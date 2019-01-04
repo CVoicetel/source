@@ -12,7 +12,9 @@ API CNAM
 
 CNAM is a acronym for Caller ID Name. This API Request will pull the CNAM value for a given telphone number.
 
-https://api.voicetel.com/cnam/[phone_number]/[api_key]/
++--------------------------------------------------------+
+|https://api.voicetel.com/cnam/[phone_number]/[api_key]/ |
++--------------------------------------------------------+
 
 **API Legend**
 

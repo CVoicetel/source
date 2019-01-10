@@ -1,16 +1,9 @@
-
-.. image:: images/logo.png
-        :width: 130pt
-        :align: center
-        :height: 130pt
-
-|
-
+.. include:: Logo.rst
 
 API CNAM
 =========================
 
-CNAM is a acronym for Caller ID Name. This API Request will pull the CNAM value for a given telphone number.
+CNAM is a acronym for Caller ID Name. This API Request will pull the CNAM value for a given telephone number.
 
 :: 
  

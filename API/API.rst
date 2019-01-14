@@ -1,5 +1,5 @@
 
-.. include:: Logo.rst
+.. include:: APIHeadder.rst
 
 
 Welcome to Voicetel API
@@ -23,5 +23,7 @@ VoiceTel has produced a RESTful API to seamlessly and efficiently remotely acces
    APIkey.rst
    APIAccountInformation.rst
    APICNAM.rst
-
+   APISMS.rst
+   APIPortability.rst
+   APIMMS.rst
 

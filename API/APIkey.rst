@@ -1,5 +1,5 @@
 
-.. include:: Logo.rst
+.. include:: APIHeadder.rst
 
 
 APIkey
@@ -25,3 +25,4 @@ FAQ:
 I have my AIPkey what can i do with it?
 	With your AIPkey you can manage your account, SMS/MMS, Routing, and other account features.
 	
+.. include:: APIFooter.rst

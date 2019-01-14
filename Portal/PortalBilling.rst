@@ -1,10 +1,5 @@
 
-.. image:: images/logo.png
-        :width: 130pt
-        :align: center
-        :height: 130pt
-
-|
+.. include:: PortalHeadder.rst
 
 
 Portal Billing Tab
@@ -14,13 +9,13 @@ Portal Billing Tab
 
 
 
-.. image:: images/PortalBillingAddFunds.PNG
+.. image:: /images/PortalBillingAddFunds.PNG
         :align: center
 
 Select the amount you would like to add to your account. Then click "Pay Now". You will be taken to the PayPal portal.
  It is recommended that you make/use a PayPal account.
 
-.. image:: images/PortalBillingAddFundsM.PNG
+.. image:: /images/PortalBillingAddFundsM.PNG
         :align: center
 
 Select the amount you would like to add to your account monthly. Then click "Pay Now". You will be taken to the PayPal portal.

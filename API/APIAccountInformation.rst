@@ -1,10 +1,5 @@
 
-.. image:: images/logo.png
-        :width: 130pt
-        :align: center
-        :height: 130pt
-
-|
+.. include:: APIHeadder.rst
 
 
 API Account Information
@@ -52,7 +47,7 @@ In the Data Container
 |notify_threshold     |Low Balance Notification Threshold|When you would like to be notified           |
 +---------------------+----------------------------------+---------------------------------------------+
 
-
+.. include:: APIFooter.rst
 
 
 

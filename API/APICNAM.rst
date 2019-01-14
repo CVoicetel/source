@@ -1,4 +1,4 @@
-.. include:: Logo.rst
+.. include:: APIHeadder.rst
 
 API CNAM
 =========================
@@ -33,3 +33,4 @@ CNAM is a acronym for Caller ID Name. This API Request will pull the CNAM value 
 |cnam                 |Text string                       |Value is cashed                              |
 +---------------------+----------------------------------+---------------------------------------------+
 
+.. include:: APIFooter.rst

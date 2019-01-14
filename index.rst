@@ -23,7 +23,7 @@ Home
 .. toctree::
    :maxdepth: 2
    
-   Portal.rst
-   API.rst
+   Portal/Portal.rst
+   API/API.rst
 
 

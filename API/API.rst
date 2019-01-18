@@ -21,5 +21,8 @@ VoiceTel has produced a RESTful API to seamlessly and efficiently remotely acces
    APISMS.rst
    APIPortability.rst
    APIMMS.rst
+   APIMessageServiceEnable.rst
+   APIMessageDetailReport.rst
+   APIbase.rst
    
 

@@ -1,5 +1,5 @@
 
-.. include:: Logo.rst
+.. include:: PortalHeadder.rst
 
 
 Welcome to Voicetel Portal
@@ -8,7 +8,7 @@ Welcome to Voicetel Portal
 Welcome to the Voicetel Portal Overview. Please take a look at what each tab dos.
 		
 	
-.. image:: _static/images/Portal/PortalBar.PNG
+.. image:: /images/Portal/PortalBar.PNG
 		
 		
 

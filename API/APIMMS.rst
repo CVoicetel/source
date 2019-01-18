@@ -5,7 +5,7 @@
 API MMS
 =========================
 
-##Description Text
+This API is for MMS, allowing you to send images and other media.
 
 :: 
  
@@ -43,4 +43,4 @@ API MMS
 +---------------------+----------------------------------+---------------------------------------------+
 
 
-.. include:: APIFooter.rst
+.. include:: APIFooter.rst 

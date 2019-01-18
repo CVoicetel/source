@@ -9,7 +9,7 @@
 
 QuickStart
 ==========
-.. image:: _static/images/Portal/PortalDID.PNG
+.. image:: /images/Portal/PortalDID.PNG
         :align: center
 
 
@@ -28,15 +28,15 @@ Thank you for choosing Voicetel.
 #add link to portal overview.
 	FusionPBX has the dial plans ready for quick set up.
 	
-.. image:: _static/images/QuickStart/Providers.PNG
+.. image:: /images/QuickStart/Providers.PNG
         :align: center
 
 	Click Setup
 	
-.. image:: _static/images/QuickStart/Providers.PNG
+.. image:: /images/QuickStart/Providers.PNG
         :align: center
 
 	After you click setup go to Accounts>Gateways. Click on your new gateway.
 	
-.. image:: _static/images/QuickStart/Gateway.PNG
+.. image:: /images/QuickStart/Gateway.PNG
         :align: center

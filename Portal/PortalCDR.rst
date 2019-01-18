@@ -7,12 +7,12 @@ Portal CDR Tab
 
 
 
-.. image:: _static/images/Portal/PortalCDRAnalytics.PNG
+.. image:: /images/Portal/PortalCDRAnalytics.PNG
         :align: center
 		
 Here you can see the Total Calls,Usage in minutes and Average call Duration
 
-.. image:: _static/images/Portal/PortalCDRRecentCalls.PNG
+.. image:: /images/Portal/PortalCDRRecentCalls.PNG
         :align: center
 
 This area will show you your recent calls.
@@ -27,7 +27,7 @@ This area will show you your recent calls.
 			
 			
 			
-.. image:: _static/images/Portal/PortalCDRDownload.png
+.. image:: /images/Portal/PortalCDRDownload.png
         :align: center
 
 For older calls You can look up the calls but Downloading the Call Detail Record. To download the CDR you will need to select the Start Date and End date. 

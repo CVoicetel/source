@@ -4,7 +4,7 @@
 
 Portal Profile Tab
 =========================
-.. image:: _static/images/Portal/PortalProfile.PNG
+.. image:: /images/Portal/PortalProfile.PNG
         :align: center
 		
 		

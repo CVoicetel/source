@@ -4,7 +4,7 @@
 
 Portal Summary Tab
 =========================
-.. image:: _static/images/Portal/SummaryPage.PNG
+.. image:: /images/Portal/SummaryPage.PNG
         :align: center
 
 

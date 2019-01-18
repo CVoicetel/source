@@ -1,10 +1,10 @@
 
-.. include:: PortalHeadder.rst|
+.. include:: PortalHeadder.rst
 
 
 Portal Login/out Tab
 =========================
-.. image:: _static/images/Portal/SummaryPage.PNG
+.. image:: /images/Portal/SummaryPage.PNG
         :align: center
 
 

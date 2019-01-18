@@ -14,7 +14,7 @@ Check all SMS for a given number.
  https://api.voicetel.com/mdr-sms/[phone_number]/[api_key]/
  
 Check SMS for a given number with start and end timestamps.
- :: 
+:: 
  
  https://api.voicetel.com/mdr-sms/[start_timestamp]/[end_timestamp]/[phone_number]/[api_key]/
  
@@ -24,7 +24,7 @@ Check all MMS for a given number.
  https://api.voicetel.com/mdr-mms/[phone_number]/[api_key]/
  
 Check MMS for a given number with start and end timestamps.
- :: 
+:: 
  
  https://api.voicetel.com/mdr-mms/[start_timestamp]/[end_timestamp]/[phone_number]/[api_key]/
 

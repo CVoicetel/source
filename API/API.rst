@@ -18,11 +18,15 @@ VoiceTel has produced a RESTful API to seamlessly and efficiently remotely acces
    APIkey.rst
    APIAccountInformation.rst
    APICNAM.rst
-   APISMS.rst
    APIPortability.rst
-   APIMMS.rst
-   APIMessageServiceEnable.rst
-   APIMessageDetailReport.rst
-   APIbase.rst
+ 
+API Messaging
+=============
+ 
+.. toctree::
+   :glob:
+   
+   /API/APIMessaging/*
+   
    
 

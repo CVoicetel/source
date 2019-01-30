@@ -1,15 +1,19 @@
 
-.. include:: APIHeadder.rst
+.. include:: /API/APIHeadder.rst
 
 
-Messaging Enablement
+Message Delivery Report
 =========================
 
-This API enables a number to be used with SMS/MMS. You will also need to enable massaging services in your Portal>Settings>Messaging Services.
+##This API will confirm delivery of massages to the end user.
 
 :: 
  
- https://api.voicetel.com/smsEnable/[number]/[api_key]/
+ https://api.voicetel.com/dlr/[phone_number]/[api_key]/
+ 
+:: 
+ 
+ https://api.voicetel.com/dlr/[start_timestamp]/[end_timestamp]/[phone_number]/[api_key]/
 
 **API Legend**
 
@@ -18,8 +22,13 @@ This API enables a number to be used with SMS/MMS. You will also need to enable 
 +=====================+==================================+=============================================+
 |[api_key]            |Your API key                      |                                             |
 +---------------------+----------------------------------+---------------------------------------------+
-|[number]             |Number in NPANXXXXXX format       |                                             |
+|[phone_number]       |Number(DID) in NPANXXXXXX format  |Must be a VoiceTel Number(DID)               |
 +---------------------+----------------------------------+---------------------------------------------+
+|[start_timestamp]    |Start Unix Timestamp (Optional)   |                                             |
++---------------------+----------------------------------+---------------------------------------------+
+|[end_timestamp]      |End Unix Timestamp (Optional)     |                                             |
++---------------------+----------------------------------+---------------------------------------------+
+
 
 **API Response**
 
@@ -33,4 +42,4 @@ This API enables a number to be used with SMS/MMS. You will also need to enable 
 +---------------------+----------------------------------+---------------------------------------------+
 
 
-.. include:: APIFooter.rst
+.. include:: /API/APIFooter.rst

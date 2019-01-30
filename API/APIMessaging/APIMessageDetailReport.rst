@@ -1,35 +1,51 @@
 
-.. include:: APIHeadder.rst
+.. include:: /API/APIHeadder.rst
 
 
-API MMS
+Message Detail Report
 =========================
 
-This API is for MMS, allowing you to send images and other media.
+With this API you will be able to check your inbound/outbound messages for a given phone number.You can also narrow down the range by providing a start and end Unix timestamp. 
 
+SMS
+---
+
+Check all SMS for a given number.
 :: 
  
- https://api.voicetel.com/v2/mms/
+ https://api.voicetel.com/mdr-sms/[phone_number]/[api_key]/
+ 
+Check SMS for a given number with start and end timestamps.
+:: 
+ 
+ https://api.voicetel.com/mdr-sms/[start_timestamp]/[end_timestamp]/[phone_number]/[api_key]/
+ 
+MMS
+---
+ 
+Check all MMS for a given number.
+:: 
+ 
+ https://api.voicetel.com/mdr-mms/[phone_number]/[api_key]/
+ 
+Check MMS for a given number with start and end timestamps.
+:: 
+ 
+ https://api.voicetel.com/mdr-mms/[start_timestamp]/[end_timestamp]/[phone_number]/[api_key]/
 
 **API Legend**
 
 +---------------------+----------------------------------+---------------------------------------------+
 |Property             |Description                       |Extra info                                   |
 +=====================+==================================+=============================================+
-|apikey               |Your API key                      |                                             |
+|[api_key]            |Your API key                      |                                             |
 +---------------------+----------------------------------+---------------------------------------------+
-|destination          |Destination DID                   |Who you are massaging                        |
+|[phone_number]       |Number(DID) in NPANXXXXXX format  |Must be a VoiceTel Number(DID)               |
 +---------------------+----------------------------------+---------------------------------------------+
-|source               |VoiceTel DID for outbound CID     |                                             |
+|[end_timestamp]      |End Unix Timestamp (Optional)     |                                             |
 +---------------------+----------------------------------+---------------------------------------------+
-|messageText          |Plain text SMS message            |Max length 160 characters                    |
+|[start_timestamp]    |Start Unix Timestamp (Optional)   |                                             |
 +---------------------+----------------------------------+---------------------------------------------+
-|mmsURL               |URL for MMS image                 |URL must be publicly accessible              |
-+---------------------+----------------------------------+---------------------------------------------+
-|mmsSubject           |MMS subject                       |Max length 40 characters                     |
-+---------------------+----------------------------------+---------------------------------------------+
-
-
 
 **API Response**
 
@@ -37,10 +53,10 @@ This API is for MMS, allowing you to send images and other media.
 +---------------------+----------------------------------+---------------------------------------------+
 | Property            |REST Response                     |Extra info                                   |
 +=====================+==================================+=============================================+
-|status               |Success                           |If error check APIkey/GET Request            |
+|status               |Success                           |If error check APIkey/Request                |
 +---------------------+----------------------------------+---------------------------------------------+
 |Message              |Detailed Response Message         |                                             |
 +---------------------+----------------------------------+---------------------------------------------+
 
 
-.. include:: APIFooter.rst 
+.. include:: /API/APIFooter.rst

@@ -1,30 +1,25 @@
 
-.. include:: APIHeadder.rst
+.. include:: /API/APIHeadder.rst
 
 
-SMS
+Messaging Enablement
 =========================
 
-This API will let you send a SMS.
+This API enables a number to be used with SMS/MMS. You will also need to enable massaging services in your Portal>Settings>Messaging Services.
 
 :: 
  
- https://api.voicetel.com/v2/sms/
+ https://api.voicetel.com/smsEnable/[number]/[api_key]/
 
 **API Legend**
 
 +---------------------+----------------------------------+---------------------------------------------+
 |Property             |Description                       |Extra info                                   |
 +=====================+==================================+=============================================+
-|apikey               |Your API key                      |                                             |
+|[api_key]            |Your API key                      |                                             |
 +---------------------+----------------------------------+---------------------------------------------+
-|destination          |Destination DID                   |Who you are massaging                        |
+|[number]             |Number in NPANXXXXXX format       |                                             |
 +---------------------+----------------------------------+---------------------------------------------+
-|source               |VoiceTel DID for outbound CID     |                                             |
-+---------------------+----------------------------------+---------------------------------------------+
-|messageText          |Plain text SMS message            |Max length 160 characters                    |
-+---------------------+----------------------------------+---------------------------------------------+
-
 
 **API Response**
 
@@ -32,9 +27,10 @@ This API will let you send a SMS.
 +---------------------+----------------------------------+---------------------------------------------+
 | Property            |REST Response                     |Extra info                                   |
 +=====================+==================================+=============================================+
-|status               |Success                           |If error check APIkey/GET Request            |
+|status               |Success                           |If error check APIkey/Request                |
 +---------------------+----------------------------------+---------------------------------------------+
-|Message              |Accepted for delivery             |Status massage long                          |
+|Message              |Detailed Response Message         |                                             |
 +---------------------+----------------------------------+---------------------------------------------+
 
-.. include:: APIFooter.rst
+
+.. include:: /API/APIFooter.rst

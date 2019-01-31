@@ -21,6 +21,7 @@ VoiceTel has produced a RESTful API to seamlessly and efficiently remotely acces
    APIPortability.rst
    APICallDetailRecord(CDR).rst
    APIPhoneNumberList.rst
+   APIAddingFindingNumbers.rst
  
 API Messaging
 =============
